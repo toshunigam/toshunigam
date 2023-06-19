@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Toshu
 - 🔭 I’m currently working on javascript technology
 - 🌱 I’m currently learning shell/bash scripting for automation
+- 📫 How to reach me: toshunigam@ymail.com
 
 <!--
 **toshunigam/toshunigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
